@@ -1,6 +1,7 @@
 <pluginpreferences>
 
 <lastversionupdate>180413</lastversionupdate>
+<lastuninstalldate>180413</lastuninstalldate>
 <counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>

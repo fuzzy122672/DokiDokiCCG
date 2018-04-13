@@ -1,3 +1,4 @@
+CardImageURLs:
 Beta/%.jpg	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/sets/setimages/Beta/%.jpg
 Beta/Always Listening.jpg	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/sets/setimages/Beta/Always Listening.jpg
 Beta/Amy Likes Spiders.jpg	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/sets/setimages/Beta/Amy Likes Spiders.jpg
