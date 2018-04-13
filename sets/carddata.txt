@@ -50,7 +50,7 @@ Natsuki's Message	Beta	Natsukis_Message	Poem	Natsuki
 Neighborhood	Beta	Neighborhood	Scene	Generic
 Borrowed Your Pen	Beta	Pen	Plot	Yuri
 Poem Mini Game	Beta	Poem_Mini_Game	Plot	Generic
-Poem Panic	Beta	Poem-Panic	Plot	Natsuki
+Poem Panic	Beta	Poem_Panic	Plot	Natsuki
 "Portrait of Markov" Gift	Beta	PoM_Gift	Plot	Yuri
 Prep-Time	Beta	Prep-time	Plot	Natsuki
 Read Manga Together	Beta	Read_Manga	Plot	Natsuki
