@@ -10,6 +10,6 @@ plugins/ddlccg/decks/Monika_Beta_Template.dek	https://raw.githubusercontent.com/
 plugins/ddlccg/decks/Natsuki_Beta_Template.dek	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/decks/Natsuki_Beta_Template.dek	16405
 plugins/ddlccg/decks/Sayori_Beta_Template.dek	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/decks/Sayori_Beta_Template.dek	16975
 plugins/ddlccg/decks/Yuri_Beta_Template.dek	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/decks/Yuri_Beta_Template.dek	15785
-plugins/ddlccg/CardImageURLsBeta.txt	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/CardImageURLsBeta.txt	898792
+plugins/ddlccg/CardImageURLsBeta.txt	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/CardImageURLsBeta.txt	911518
 CardURLFiles:
 CardImageURLsBeta.txt
