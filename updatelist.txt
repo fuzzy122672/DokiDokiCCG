@@ -1,8 +1,5 @@
 ddlccg	04-13-18
 plugins/ddlccg/plugininfo.txt	https://github.com/fuzzy122672/DokiDokiCCG/blob/master/plugininfo.txt	255040
-plugins/ddlccg/pluginpreferences.txt	https://github.com/fuzzy122672/DokiDokiCCG/blob/master/pluginpreferences.txt	235777
-plugins/ddlccg/version.txt	https://github.com/fuzzy122672/DokiDokiCCG/blob/master/version.txt	23959
-plugins/ddlccg/uninstall.txt	https://github.com/fuzzy122672/DokiDokiCCG/blob/master/uninstall.txt	25972
 plugins/ddlccg/bot.jpg	https://github.com/fuzzy122672/DokiDokiCCG/blob/master/bot.jpg	368827
 plugins/ddlccg/sets/carddata.txt	https://github.com/fuzzy122672/DokiDokiCCG/blob/master/carddata.txt	311194
 plugins/ddlccg/cardback.jpg	https://github.com/fuzzy122672/DokiDokiCCG/blob/master/cardback.jpg	-41664
