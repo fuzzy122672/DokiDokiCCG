@@ -53,8 +53,6 @@
 <bindingcard2>SHIFT+META+MINUS</bindingcard2>
 <bindingcard3>SHIFT+META+EQUALS</bindingcard3>
 <bindingcard4>META+MINUS</bindingcard4>
-<bindingcard5>META+EQUALS</bindingcard5>
-<bindingcard6>CTRL+SHIFT+EQUALS</bindingcard6>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>
 <bindingcanned2>CTRL+3</bindingcanned2>

@@ -1,0 +1,14 @@
+ddlccg	04-13-18
+plugins/ddlccg/plugininfo.txt	https://github.com/fuzzy122672/DokiDokiCCG/plugininfo.txt	255040
+plugins/ddlccg/pluginpreferences.txt	https://github.com/fuzzy122672/DokiDokiCCG/pluginpreferences.txt	235777
+plugins/ddlccg/version.txt	https://github.com/fuzzy122672/DokiDokiCCG/version.txt	23959
+plugins/ddlccg/uninstall.txt	https://github.com/fuzzy122672/DokiDokiCCG/uninstall.txt	25972
+plugins/ddlccg/bot.jpg	https://github.com/fuzzy122672/DokiDokiCCG/bot.jpg	368827
+plugins/ddlccg/sets/carddata.txt	https://github.com/fuzzy122672/DokiDokiCCG/carddata.txt	311194
+plugins/ddlccg/cardback.jpg	https://github.com/fuzzy122672/DokiDokiCCG/cardback.jpg	-41664
+plugins/ddlccg/decks/Monika_Beta_Template.dek	https://github.com/fuzzy122672/DokiDokiCCG/decks/Monika_Beta_Template.dek	16491
+plugins/ddlccg/decks/Natsuki_Beta_Template.dek	https://github.com/fuzzy122672/DokiDokiCCG/decks/Natsuki_Beta_Template.dek	16405
+plugins/ddlccg/decks/Sayori_Beta_Template.dek	https://github.com/fuzzy122672/DokiDokiCCG/decks/Sayori_Beta_Template.dek	16975
+plugins/ddlccg/decks/Yuri_Beta_Template.dek	https://github.com/fuzzy122672/DokiDokiCCG/decks/Yuri_Beta_Template.dek	15785
+CardGeneralURLs:
+https://github.com/fuzzy122672/DokiDokiCCG/sets/setimages/

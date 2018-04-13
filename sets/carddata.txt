@@ -41,7 +41,7 @@ One-to-One Tslk	Beta	Just ME	Plot	Monika
 Just Monika	Beta	Just monika	Plot	Monika
 Kitchen	Beta	Kitchen	Scene	Generic
 Know What's Best	Beta	Know What's Best	Plot	Sayori
-Load Game	Beta	Load Game	Plot	Generic
+Load Game	Beta	Load your game	Plot	Generic
 MC's House	Beta	MC house	Scene	Generic
 mdpnfbo,jrfp	Beta	mdpnfbojrfp	Poem	Yuri
 Missing Manga	Beta	Missing Manga	Plot	Natsuki

@@ -1,0 +1,4 @@
+RECENTDECK0:Yuri_Template.dek
+RECENTDECK1:Natsuki_Template.dek
+RECENTDECK2:Sayori_Template.dek
+RECENTDECK3:Monika_Template.dek

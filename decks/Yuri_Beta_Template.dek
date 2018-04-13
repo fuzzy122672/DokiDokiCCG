@@ -1,0 +1,8 @@
+<deck version="0.8">
+	<meta>
+		<game>ddlccg</game>
+	</meta>
+	<superzone name="Doki">
+		<card><name id="DDLC the Card game Yuri">Yuri, Club Member</name><set>Beta</set></card>
+	</superzone>
+</deck>
