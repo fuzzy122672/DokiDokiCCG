@@ -1,80 +1,80 @@
 Name	Set	Imagefile	Type	Character
 %	Beta	%	Poem	Sayori
-Always Listening	Beta	Always Listening	Plot	Monika
-Amy Likes Spiders	Beta	Amy Likes Spiders	Poem	Natsuki
-Beach	Beta	Beach yuri	Poem	Yuri
-Because You	Beta	Because you	Poem	Natsuki
+Always Listening	Beta	Always_Listening	Plot	Monika
+Amy Likes Spiders	Beta	Amy_Likes_Spiders	Poem	Natsuki
+Beach	Beta	Beach_yuri	Poem	Yuri
+Because You	Beta	Because_you	Poem	Natsuki
 Bedroom	Beta	Bedroom	Scene	Generic
 Bottles	Beta	Bottles	Poem	Sayori
-I Bumped My Head!	Beta	Bumped my head	Plot	Sayori
-Get Caried Away	Beta	Carried away	Plot	Natsuki
+I Bumped My Head!	Beta	Bumped_my_head	Plot	Sayori
+Get Caried Away	Beta	Carried_away	Plot	Natsuki
 Closet	Beta	Closet	Scene	Generic
-Club Invite	Beta	Club Invite	Plot	Monika
-Club Room	Beta	Club room	Scene	Generic
+Club Invite	Beta	Club_Invite	Plot	Monika
+Club Room	Beta	Club_room	Scene	Generic
 Colors	Beta	Colors	Poem	Monika
-Common Ground	Beta	Common Ground	Plot	Natsuki
+Common Ground	Beta	Common_Ground	Plot	Natsuki
 Cookies For Sayori?	Beta	Cookies	Plot	Sayori
 Corridor	Beta	Corridor	Scene	Generic
-The Crimson Flow	Beta	Crimson Flow	Plot	Yuri
-Monika, Club President	Beta	DDLC the Card game Monika	Doki	Monika
-Natsuki, Club Member	Beta	DDLC the Card game Natsuki	Doki	Natsuki
-Sayori, Club Vice-President	Beta	DDLC the Card game Sayori	Doki	Sayori
-Yuri, Club Member	Beta	DDLC the Card game Yuri	Doki	Yuri
-Dear Sunshine	Beta	Dear Sun Shine	Poem	Sayori
+The Crimson Flow	Beta	Crimson_Flow	Plot	Yuri
+Monika, Club President	Beta	DDLC_the_Card_game_Monika	Doki	Monika
+Natsuki, Club Member	Beta	DDLC_the_Card_game_Natsuki	Doki	Natsuki
+Sayori, Club Vice-President	Beta	DDLC_the_Card_game_Sayori	Doki	Sayori
+Yuri, Club Member	Beta	DDLC_the_Card_game_Yuri	Doki	Yuri
+Dear Sunshine	Beta	Dear_Sun_Shine	Poem	Sayori
 Depression Confession	Beta	Depressconfess	Plot	Sayori
-I Can Do It Myself, See?	Beta	Do it Myself	Plot	Natsuki
-Eagles Can Fly	Beta	Eagles Can Fly	Poem	Natsuki
-Find Weakness	Beta	find weakness	Plot	Natsuki
+I Can Do It Myself, See?	Beta	Do_it_Myself	Plot	Natsuki
+Eagles Can Fly	Beta	Eagles_Can_Fly	Poem	Natsuki
+Find Weakness	Beta	find_weakness	Plot	Natsuki
 FOREVER	Beta	Forever	Plot	Sayori
-Ghost Under the Light pt. 2	Beta	Ghost under the Light pt2	Poem	Yuri
-Ghost Under the Light	Beta	Ghost under the Light	Poem	Yuri
-Happy End	Beta	Happy end	Poem	Monika
-Have You Considered Killing ...	Beta	Have you	Plot	Yuri
+Ghost Under the Light pt. 2	Beta	Ghost_under_the_Light_pt2	Poem	Yuri
+Ghost Under the Light	Beta	Ghost_under_the_Light	Poem	Yuri
+Happy End	Beta	Happy_end	Poem	Monika
+Have You Considered Killing ...	Beta	Have_you	Plot	Yuri
 History	Beta	History	Plot	Generic
-Hole in Wall (Part 2)	Beta	Hole in Wall p2	Poem	Monika
-Hole in Wall	Beta	Hole in Wall	Poem	Monika
-I Just Want To Look At You	Beta	I Just want to look	Plot	Yuri
-If You Must	Beta	If you must	Plot	Monika
-I'll Be Your Beach	Beta	I'll Be Your Beach	Poem	Natsuki
-I'll Have One Too!	Beta	I'll take one	Plot	Generic
-One-to-One Tslk	Beta	Just ME	Plot	Monika
-Just Monika	Beta	Just monika	Plot	Monika
+Hole in Wall (Part 2)	Beta	Hole_in_Wall_p2	Poem	Monika
+Hole in Wall	Beta	Hole_in_Wall	Poem	Monika
+I Just Want To Look At You	Beta	I_Just_want_to_look	Plot	Yuri
+If You Must	Beta	If_you_must	Plot	Monika
+I'll Be Your Beach	Beta	I'll_Be_Your_Beach	Poem	Natsuki
+I'll Have One Too!	Beta	I'll_take_one	Plot	Generic
+One-to-One Tslk	Beta	Just_ME	Plot	Monika
+Just Monika	Beta	Just_monika	Plot	Monika
 Kitchen	Beta	Kitchen	Scene	Generic
-Know What's Best	Beta	Know What's Best	Plot	Sayori
-Load Game	Beta	Load your game	Plot	Generic
-MC's House	Beta	MC house	Scene	Generic
+Know What's Best	Beta	Know_What's_Best	Plot	Sayori
+Load Game	Beta	Load_your_game	Plot	Generic
+MC's House	Beta	MC_house	Scene	Generic
 mdpnfbo,jrfp	Beta	mdpnfbojrfp	Poem	Yuri
-Missing Manga	Beta	Missing Manga	Plot	Natsuki
-My Meadow	Beta	My Meadow	Poem	Sayori
-Natsuki's Message	Beta	Natsukis Message	Poem	Natsuki
+Missing Manga	Beta	Missing_Manga	Plot	Natsuki
+My Meadow	Beta	My_Meadow	Poem	Sayori
+Natsuki's Message	Beta	Natsukis_Message	Poem	Natsuki
 Neighborhood	Beta	Neighborhood	Scene	Generic
 Borrowed Your Pen	Beta	Pen	Plot	Yuri
-Poem Mini Game	Beta	Poem Mini Game	Plot	Generic
-Poem Panic	Beta	Poem Panic	Plot	Natsuki
-"Portrait of Markov" Gift	Beta	PoM Gift	Plot	Yuri
+Poem Mini Game	Beta	Poem_Mini_Game	Plot	Generic
+Poem Panic	Beta	Poem-Panic	Plot	Natsuki
+"Portrait of Markov" Gift	Beta	PoM_Gift	Plot	Yuri
 Prep-Time	Beta	Prep-time	Plot	Natsuki
-Read Manga Together	Beta	Read Manga	Plot	Natsuki
-Read Together	Beta	Read Together	Plot	Yuri
-Save Me (Part 2)	Beta	Save Me p2	Poem	Monika
-Help me, Sayori!!	Beta	Save me sayori	Plot	Sayori
-Save Me	Beta	Save Me	Poem	Monika
-Save Game	Beta	Save your game	Plot	Generic
-Sayori's Room	Beta	Sayoris Room	Scene	Sayori
-School Bell	Beta	School bell	Plot	Generic
-Share a Book and Chocolates	Beta	Share Chocolates	Plot	Yuri
+Read Manga Together	Beta	Read_Manga	Plot	Natsuki
+Read Together	Beta	Read_Together	Plot	Yuri
+Save Me (Part 2)	Beta	Save_Me_p2	Poem	Monika
+Help me, Sayori!!	Beta	Save_me_sayori	Plot	Sayori
+Save Me	Beta	Save_Me	Poem	Monika
+Save Game	Beta	Save_your_game	Plot	Generic
+Sayori's Room	Beta	Sayoris_Room	Scene	Sayori
+School Bell	Beta	School_bell	Plot	Generic
+Share a Book and Chocolates	Beta	Share_Chocolates	Plot	Yuri
 Shutdown	Beta	shutdown	Plot	Natsuki
 Skip	Beta	Skip	Plot	Generic
 Sorry...	Beta	Sorry	Plot	Monika
 Spill Clean-Up	Beta	Spill	Plot	Yuri
-Stagnating Air	Beta	Stagnating Air	Plot	Generic
+Stagnating Air	Beta	Stagnating_Air	Plot	Generic
 T3BlbiBZb3VyIFRoaXJkIEV5ZQ==	Beta	T3BlbiBZb3VyIFRoaXJkIEV5ZQ	Poem	Natsuki
-How About Some Tea?	Beta	Tea Time	Plot	Yuri
-The Lady who Knows Everything	Beta	The Lady who Knows Everything	Poem	Monika
-Tidy Up!	Beta	Tidy Up	Plot	Sayori
-Wait For Me!	Beta	Wait for me	Plot	Sayori
-Walk Home Together?	Beta	Walk Home	Plot	Sayori
-We can all try something new!	Beta	We can all try	Plot	Sayori
+How About Some Tea?	Beta	Tea_Time	Plot	Yuri
+The Lady who Knows Everything	Beta	The_Lady_who_Knows_Everything	Poem	Monika
+Tidy Up!	Beta	Tidy_Up	Plot	Sayori
+Wait For Me!	Beta	Wait_for_me	Plot	Sayori
+Walk Home Together?	Beta	Walk_Home	Plot	Sayori
+We can all try something new!	Beta	We_can_all_try	Plot	Sayori
 Wheel	Beta	Wheel	Poem	Yuri
-Who Care About That Obnoxious..	Beta	Who Cares	Plot	Yuri
+Who Care About That Obnoxious..	Beta	Who_Cares	Plot	Yuri
 Yay! You Picked Me!	Beta	Yay	Plot	Monika
-Your Rea)#&?eU	Beta	Your Reality	Plot	Monika
+Your Rea)#&?eU	Beta	Your_Reality	Plot	Monika

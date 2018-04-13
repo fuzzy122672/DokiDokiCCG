@@ -3,6 +3,6 @@
 		<game>ddlccg</game>
 	</meta>
 	<superzone name="Doki">
-		<card><name id="DDLC the Card game Monika">Monika, Club President</name><set>Beta</set></card>
+		<card><name id="DDLC_the_Card_game_Monika">Monika, Club President</name><set>Beta</set></card>
 	</superzone>
 </deck>
