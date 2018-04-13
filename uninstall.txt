@@ -1,0 +1,10 @@
+<uninstall>
+
+<dateYYMMDD>180412</dateYYMMDD>
+<removepath>sets/setimages/alpha/</removepath>
+<removepath>decks/Monika_Alpha</removepath>
+<removepath>decks/Sayori_Alpha</removepath>
+<removepath>decks/Natsuki_Alpha</removepath>
+<removepath>decks/Yuri_Alpha</removepath>
+
+</uninstall>

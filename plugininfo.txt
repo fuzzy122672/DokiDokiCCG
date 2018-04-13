@@ -1,0 +1,91 @@
+<plugin><pluginversion>Beta 1.0</pluginversion><pluginname>ddlccg</pluginname>
+
+//Player Stats
+
+<playerstat>
+<label>Happiness</label>
+<initialvalue>5</initialvalue>
+</playerstat>
+
+<playerstat>
+<label>Love Counters</label>
+<initialvalue>0</initialvalue>
+</playerstat>
+
+//Deckzone
+
+<deckzone>
+<label>Book</label>
+<gamezonetoloadto>Book</gamezonetoloadto>
+<shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+<label>Doki</label>
+<gamezonetoloadto>Hand</gamezonetoloadto>
+<shuffle>yes</shuffle>
+</deckzone>
+
+//Gamezones
+
+<gamezone>
+<label>Hand</label>
+<visibletoowner>yes</visibletoowner>
+<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+<label>Book</label>
+<visibletoowner>no</visibletoowner>
+<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+<label>Discard</label>
+<visibletoowner>yes</visibletoowner>
+<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+<label>Deleted</label>
+<visibletoowner>yes</visibletoowner>
+<visibletoothers>yes</visibletoothers>
+<isshared>yes</isshared>
+</gamezone>
+
+//Phases
+<phase><label>Draw</label></phase>
+<phase><label>Place</label></phase>
+<phase><label>Scenes</label></phase>
+<phase><label>Plots</label></phase>
+<phase><label>Poems</label></phase>
+<phase><label>End</label></phase>
+
+//Functions
+<generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Previous Phase</label><kind>PREVIOUSPHASE</kind></generalfunction>
+<generalfunction><label>Next Phase</label><kind>NEXTPHASE</kind></generalfunction>
+<generalfunction>
+<label>Deplete Book</label><kind>TRANSFERCARD</kind>
+<sourceowner>performer</sourceowner><sourcegamezone>Book</sourcegamezone><sourceposition>top</sourceposition>
+<destinationowner>performer</destinationowner><destinationgamezone>Discard</destinationgamezone><destinationposition>top</destinationposition>
+<includeasbutton>yes</includeasbutton></generalfunction>
+
+//Card Functions
+
+<cardfunction><label>Active</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Inactive</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<cardfunction><label>Flip Coin</label><kind>FLIPCOIN</kind>
+<includeasbutton>yes</includeasbutton></cardfunction>
+
+<cardfunction><label>Flip Card</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<cardfunction><label>Happiness -1</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Happiness +1</label><kind>ADDCOUNTER</kind><color>red</color>
+<PositionX>.1</PositionX><PositionY>.1</PositionY><includeasbutton>yes</includeasbutton></cardfunction>
+
+<cardfunction><label>Cupcakes -1</label><kind>REMOVECOUNTER</kind><color>white</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Cupcakes +1</label><kind>ADDCOUNTER</kind><color>white</color>
+<PositionX>.5</PositionX><PositionY>.1</PositionY><includeasbutton>yes</includeasbutton></cardfunction>
+</plugin>

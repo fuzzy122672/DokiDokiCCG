@@ -1,0 +1,8 @@
+<version>
+
+<lastupdateYYMMDD>180412</lastupdateYYMMDD>
+<versionurl>https://github.com/fuzzy122672/DokiDokiCCG/version.txt</versionurl>
+<updateurl>https://github.com/fuzzy122672/DokiDokiCCG/updatelist.txt</updateurl>
+<message>On to the open beta!</message>
+
+</version>
