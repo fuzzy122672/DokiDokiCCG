@@ -4,7 +4,7 @@ plugins/ddlccg/pluginpreferences.txt	https://raw.githubusercontent.com/fuzzy1226
 plugins/ddlccg/version.txt	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/version.txt	23959
 plugins/ddlccg/uninstall.txt	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/uninstall.txt	25972
 plugins/ddlccg/bot.jpg	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/bot.jpg	368827
-plugins/ddlccg/sets/carddata.txt	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/carddata.txt	311194
+plugins/ddlccg/sets/carddata.txt	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/sets/carddata.txt	311194
 plugins/ddlccg/cardback.jpg	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/cardback.jpg	-41664
 plugins/ddlccg/decks/Monika_Beta_Template.dek	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/decks/Monika_Beta_Template.dek	16491
 plugins/ddlccg/decks/Natsuki_Beta_Template.dek	https://raw.githubusercontent.com/fuzzy122672/DokiDokiCCG/master/decks/Natsuki_Beta_Template.dek	16405
